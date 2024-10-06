@@ -26,5 +26,5 @@ This is my first website project, showcasing the Jakarta Convention Center (JCC)
 
 ---
 
-## Wesbite
+## Website
 [Website](https://kevinsutrisna.github.io/JCC/)
